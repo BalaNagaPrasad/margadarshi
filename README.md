@@ -1,2 +1,2 @@
 # margadarshi
-This is a static web site for schools.
+This is a static web site for schools .
